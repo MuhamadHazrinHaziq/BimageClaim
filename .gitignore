@@ -1,0 +1,7 @@
+# Ignore any local statement PDFs, Excel sheets, or generated Word claims
+*.pdf
+*.xlsx
+*.docx
+example-files/
+.DS_Store
+Thumbs.db
